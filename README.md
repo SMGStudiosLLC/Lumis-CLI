@@ -3,7 +3,7 @@
 > The intelligent, autonomous terminal agent.
 > *Designed by Tobias Schmidt Services LLC.*
 
-Lumis CLI is a sophisticated command-line environment that transforms your terminal into an agentic workspace. It combines the power of top-tier cloud models and local inference with deep system integration, allowing for autonomous file manipulation, code generation, and complex task execution.
+Lumis CLI is a sophisticated command-line environment that transforms your terminal into an agentic workspace. It combines the power of top-tier cloud models and local inference with deep system integration, allowing for autonomous file manipulation, code generation, and complex task execution. And best of all, it's free!
 
 ![Version](https://img.shields.io/badge/version-2.1-blue.svg?style=flat-square)
 ![License](https://img.shields.io/badge/license-Personal-green.svg?style=flat-square)
@@ -23,7 +23,7 @@ Lumis goes beyond chat. It is equipped with a robust toolset allowing it to:
 * **Visual Planning:** creates and manages interactive TODO lists for multi-step complex tasks.
 
 ### Dual-Mode Intelligence
-* **Cloud Mode:** connects to **Poe** for access to premium models like Claude Opus, GPT-5.2 Codex, and Gemini Pro.
+* **Cloud Mode:** connects to **Poe** for access to premium models like Claude Opus 4.5, GPT-5.2 Codex, and Gemini 3 Pro.
 * **Local Mode:** integrates seamlessly with **Ollama** for private, offline inference.
 
 ### Experimental Features
@@ -35,6 +35,7 @@ Lumis goes beyond chat. It is equipped with a robust toolset allowing it to:
 
 ## Getting Started
 
+0. Run the installer in Terminal. If that fails, continue.
 1. Ensure you have Python 3 installed.
 2. Download `lumis.py`.
 3. Make the script executable:
