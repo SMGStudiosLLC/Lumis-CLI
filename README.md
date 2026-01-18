@@ -1,4 +1,4 @@
-<img width="2496" height="1696" alt="lumis-cover" src="https://github.com/user-attachments/assets/982d2b44-08bb-4dfb-977e-13088a5fe24f" />
+<img width="2496" height="1696" alt="lumis-cover" src="https://github.com/user-attachments/assets/eb6125b5-7287-4ed6-81c1-97aec289f616" />
 
 # Lumis CLI
 
